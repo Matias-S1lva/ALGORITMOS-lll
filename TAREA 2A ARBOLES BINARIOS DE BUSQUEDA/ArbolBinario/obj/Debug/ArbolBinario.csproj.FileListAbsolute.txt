@@ -1,0 +1,8 @@
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\matut\Desktop\cursada 2023\programacion lll\arboles\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb

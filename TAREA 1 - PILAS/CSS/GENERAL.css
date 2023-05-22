@@ -1,0 +1,147 @@
+*{
+    text-transform:uppercase;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 20%;
+    float: left;
+    background-color: brown;
+    color: white;
+    padding: 1rem;
+    height: 100vh;    
+}
+
+header img{ width: 100%;
+    border-radius: 50%;
+    border:4px black;
+    border-style: groove;
+    box-sizing: 1rem 1rem 1rem gray;float: left;
+    margin-bottom: 4rem;
+}
+nav{
+position: relative;top:0; 
+width: 80%; 
+height: 10vh;
+float: right;
+background-color: black;
+color: white;
+z-index: 100;
+padding: 2vh 4vw;
+}
+section{height: 90vh;float: right;width: 80%;
+background-color: darkgoldenrod;
+padding: 1rem;
+}
+
+nav ul {
+    margin:1rem 3px;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li a {
+       
+        color: #fff;
+        background-color: #500;
+        padding:3px;
+        border: groove #666;
+        margin-right: 0.5rem;
+        
+    }
+
+ nav ul a:hover {
+            background-color: #777;
+            
+        }
+
+ nav ul li {
+        float: left;
+        text-align: left;
+    }
+
+ nav ul li div {
+           
+            
+            display: none;
+            box-shadow: #644 .5rem .5rem 1rem;
+            
+        }
+
+ nav ul li:hover div {
+          
+            display: block;
+            background:maroon;
+            margin-top:0.3rem;
+            z-index:100;
+            
+
+        }
+
+nav ul li div a {
+            position: relative;
+            display: block;
+            margin-top:0.3rem;
+            text-align: left;
+           
+
+        }
+
+ nav ul li.login {
+            float: right;
+            color: #abd;
+        }
+
+section form{
+    margin: auto;
+    height: auto;
+    box-shadow: 1rem 1rem 2rem grey;
+    border: 2px solid black;
+}
+section .header{
+    background-color: black;
+    color: white;
+    overflow-y: auto;
+    padding: 10px;
+}
+section .header label{float: left;}
+section .header img{
+    float: right;
+    height: 2rem;
+    border-radius: 50%;
+    border: 2px gray solid;
+}
+.w60{width: 60%;}
+section form #Cform{height: auto;padding: 12px;}
+section form #Cform label{
+width: 45%;
+float: left;
+background-color:rgb(49, 42, 25);
+color: white;
+margin-bottom: 12px;
+clear: left;
+text-align: left;
+font-weight: bold;
+}
+section form #Cform input,section form #Cform select{
+    width: 45%;
+    float: right;
+    display: inline;
+    
+}
+#Foot{
+    clear: both;
+    padding: 12px;
+    background-color: brown;
+    height: auto;overflow: auto;
+}
+#Submit{width: 48%;float: left;
+font-weight: bold;
+}
+#Reset{width: 48%;float: right;
+font-weight: bold;}
+#Submit:hover,#Reset:hover{opacity:0.7 ;}
+p{color: black;font-weight: bold;margin: 5px;}
+#h1{background-color: chocolate;color: white;margin-bottom: 5px;}
